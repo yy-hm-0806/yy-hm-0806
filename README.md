@@ -1,4 +1,7 @@
-### Hi there 👋 nice to jion github
+### Hi there 👋 I am happy to join the github
+我是18综合班的杨艳同学
+早就听说github了，但自己一直都没有办账号，今天终于进来了。
+以后请多指教！
 
 <!--
 **yy-hm-0806/yy-hm-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
