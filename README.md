@@ -1,7 +1,8 @@
 ### Hi there 👋 I am happy to join the github
-我是18综合班的杨艳同学
-早就听说github了，但自己一直都没有办账号，今天终于进来了。
-以后请多指教！
+<p><h4>我是18综合班的杨艳同学，来自脐橙之乡 江西赣州</h4></p>
+<p>早就听说github了，但自己一直都没有办账号，今天终于进来了。</p>
+<p>我最喜欢的话是：真正孤独的人不言孤独</p>
+<p>各位，以后请多指教！</p>
 
 <!--
 **yy-hm-0806/yy-hm-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
