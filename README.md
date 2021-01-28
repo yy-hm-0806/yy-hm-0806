@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 nice to jion github
 
 <!--
 **yy-hm-0806/yy-hm-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
